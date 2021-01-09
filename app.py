@@ -1,7 +1,7 @@
 import random
 from flask import Flask, render_template
-# from hospitals_string_data import generate_hospitals_Data_to_HTML
-# from covid_centers_string_data import generate_covid_centers_Data_to_HTML
+from hospitals_string_data import generate_hospitals_Data_to_HTML
+from covid_centers_string_data import generate_covid_centers_Data_to_HTML
 
 app = Flask(__name__)
 
