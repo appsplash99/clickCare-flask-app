@@ -9,10 +9,6 @@ app = Flask(__name__)
 def home_page():
     return render_template('home.html')
 
-@app.route('/about')
-def about_page():
-    return render_template('about.html')
-
 @app.route('/form')
 def form_page():
     return render_template('includes/form.html')
@@ -20,6 +16,10 @@ def form_page():
 @app.route('/interest')
 def interest_page():
     return render_template('includes/interest.html')
+
+@app.route('/contact')
+def contact_page():
+    return render_template('includes/contact.html')
 
 # func 1 - SOS route
 @app.route('/nearest-hospitals', methods=['GET', 'POST'])
