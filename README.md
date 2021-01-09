@@ -1,4 +1,5 @@
-<img align="center" src="https://github.com/appsplash99/clickCare-flask-app/blob/main/static/images/clickcare_logo.png" alt="app" height="200px"/>
+<img align="center" src="https://github.com/appsplash99/clickCare-flask-app/blob/main/static/images/clickcare_logo.png" alt="app" height="100px"/>
+
 # Click Care
 A one-stop Web Application for all your healt care related problems!
 <br>
