@@ -17,6 +17,10 @@ def about_page():
 def form_page():
     return render_template('includes/form.html')
 
+@app.route('/interest')
+def interest_page():
+    return render_template('includes/interest.html')
+
 # func 1 - SOS route
 @app.route('/nearest-hospitals', methods=['GET', 'POST'])
 def show_nearest_hospitals():
