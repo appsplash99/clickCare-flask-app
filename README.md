@@ -1,4 +1,5 @@
-# Click_Care
+<img align="center" src="https://github.com/appsplash99/clickCare-flask-app/blob/main/static/images/clickcare_logo.png" alt="app" height="200px"/>
+# Click Care
 A one-stop Web Application for all your healt care related problems!
 <br>
 
@@ -9,8 +10,6 @@ On Clickcare you'll get Some out of the box SOS services such as calling your ne
 You can also book your appointments with local doctors and get informations related to local health check up camps.
 <br>
 <br>
-
-<img align="center" src="https://github.com/appsplash99/clickCare-flask-app/blob/main/static/images/clickcare_logo.png" alt="app" height="200px"/>
 
 ## Technology Stack
 ### Web Technology
